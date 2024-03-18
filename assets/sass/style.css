@@ -464,7 +464,7 @@ img {
   display: none;
 }
 .view-cart-btn:hover {
-  background-color: #ea4a00;
+  background-color: #9edc43;
 }
 .view-cart-btn.s1 {
   background: #ddd;
@@ -5717,7 +5717,7 @@ img {
   color: #fff;
 }
 .wpo-pricing-section .pricing-grids > .grid:nth-child(2) .get-started:hover {
-  background: #ea4a00;
+  background: #9edc43;
   color: #fff;
 }
 
