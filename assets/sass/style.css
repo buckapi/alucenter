@@ -5080,7 +5080,7 @@ img {
   font-weight: 800;
   color: transparent;
   -webkit-text-stroke-width: 1px;
-  -webkit-text-stroke-color: #fff;
+  -webkit-text-stroke-color: #9edc43;
   z-index: 1;
 }
 .service-card .image .line-one {
@@ -6442,6 +6442,7 @@ img {
 @media (max-width: 767px) {
   .wpo-shop-section .shop-grids {
     margin: 0 -7px;
+    margin-top: 30px;
   }
 }
 .wpo-shop-section .grid {
@@ -7721,11 +7722,11 @@ img {
 .wpo-blog-pg-section .entry-meta {
   list-style: none;
   overflow: hidden;
-  margin: 35px 0;
+ 
 }
 @media (max-width: 767px) {
   .wpo-blog-pg-section .entry-meta {
-    margin: 25px 0;
+/*    margin: 25px 0;*/
   }
 }
 .wpo-blog-pg-section .entry-meta ul {
@@ -7735,7 +7736,7 @@ img {
   font-weight: 500;
   font-size: 14px;
   font-size: 0.9333333333rem;
-  float: left;
+  float: initial;
   text-transform: uppercase;
 }
 .wpo-blog-pg-section .entry-meta ul li a {
